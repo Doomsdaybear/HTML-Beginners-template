@@ -4,6 +4,6 @@
 <title>My HTML project</title>
 <h2 style = "color:white">This is a heading!!!</h2>
 <p style = "color:white">This is a paragraph</p>
-<button style = "button" onclick = "alert('And here's an alert!')">This is a button</button>
+<button style = "button" onclick = "alert('And here is an alert!')">This is a button</button>
 
 <!--This probably looks complicated, but it's easier the more you know.-->
